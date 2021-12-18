@@ -22,6 +22,7 @@ Django Model Recipes
    :maxdepth: 1
    :glob:
 
+   model/set-plural-text-for-model
    model/get-first-single-model-object
    model/get-user-model
    model/create-default-record
