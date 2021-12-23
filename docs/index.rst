@@ -6,6 +6,12 @@
 Welcome to Django Cookbook!
 ============================
 
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   django-settings
+
 Django Application Recipes
 ---------------------------
 
@@ -26,6 +32,7 @@ Django Model Recipes
    model/get-first-single-model-object
    model/get-user-model
    model/create-default-record
+   model/query-model
 
 Django Admin Recipes
 ---------------------
@@ -36,6 +43,13 @@ Django Admin Recipes
 
    admin/readonly-model
    admin/change-application-name-admin
+
+Django Rest Framework
+----------------------
+.. toctree::
+   :maxdepth: 2
+
+   rest-framework
 
 Testing Recipes
 ---------------
